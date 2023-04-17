@@ -1,0 +1,18 @@
+.container_item {
+  display: flex;
+  background-color: #20212c;
+  padding: 10px;
+  border-radius: 10px;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.container_item label {
+  color: #ccc;
+}
+
+.container_item input {
+  width: 25px;
+  height: 25px;
+  margin-right: 5px;
+}
